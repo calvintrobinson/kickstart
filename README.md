@@ -3,4 +3,4 @@ kickstart
 
 Kickstart Files
 
-Centos 6.5 Kickstart File
+Centos Linux 6.5 Kickstart Example File
